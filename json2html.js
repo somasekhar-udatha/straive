@@ -1,6 +1,6 @@
 // json2html.js
 export default function json2html(data) {
-    let table = <table data-user="avinash.challa2003@gmail.com">;
+    let table = <table data-user="somasekharudatha@gmail.com">;
     table += <thead><tr><th>Name</th><th>Age</th><th>Gender</th></tr></thead><tbody>;
   
     for (const item of data) {
